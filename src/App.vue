@@ -6,7 +6,6 @@
         <Plus class="h-4 w-4" />
       </Button>
     </div>
-    {{ formState }}
 
     <!-- Подсказака -->
     <div class="rounded-md bg-muted px-4 py-2 text-sm text-muted-foreground">
